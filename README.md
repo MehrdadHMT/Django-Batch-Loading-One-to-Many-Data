@@ -1,4 +1,4 @@
-# Django-Batch-Loading-One-to-Many-Data
+# Django Batch Loading One-to-Many Data
 This project is based on ["Django Features and Libraries" ](https://www.coursera.org/learn/django-features-libraries?specialization=django)
 Taught by: Charles Russell Severance, Clinical Professor
 
